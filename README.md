@@ -1,3 +1,4 @@
 # git-GitHub_
-This is my Git-GitHub class
+This is my Git-GitHub class.
+<br>
 Author - Tarkeshwar Parit
